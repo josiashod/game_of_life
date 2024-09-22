@@ -12,6 +12,7 @@ Table des matières
 -   [Exemple d'Exécution](#exemple-dex%C3%A9cution)
 -   [Fonctionnalités](#fonctionnalit%C3%A9s)
 -   [Règles du Jeu](#r%C3%A8gles-du-jeu)
+-   [Auteur](#auteur)
 
 Aperçu
 ------
@@ -62,3 +63,7 @@ Le **Jeu de la Vie** est basé sur ces quatre règles simples :
 2.  **Mort par isolement** : Une cellule vivante avec moins de 2 voisines vivantes meurt.
 3.  **Mort par surpopulation** : Une cellule vivante avec plus de 3 voisines vivantes meurt.
 4.  **Naissance** : Une cellule morte avec exactement 3 voisines vivantes devient vivante.
+
+## Auteur
+
+Josias DJOSSOU-DAN - [djossoujosiashod@gmail.com](mailto:djossoujosiashod@gmail.com)
