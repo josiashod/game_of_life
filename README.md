@@ -26,7 +26,7 @@ Installation
 
 1.  Clone ce dépôt GitHub sur ta machine locale :
 ```bash 
-    git clone https://github.com/josiashod/game_of_life_.git
+    git clone https://github.com/josiashod/game_of_life.git
     cd game_of_life`
 ```
 2.  Compile le projet avec un compilateur C++ (comme `g++`) :
